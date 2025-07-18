@@ -44,6 +44,6 @@ This is where I included some of the DAX expresssions in form of Pivot and build
 
 
 ### Results/Findings
-The result of this analysis can be seen when you view the raw added Uploaded Files
+The result of this analysis can be seen when you view the raw added Uploaded Files. I tried dragging the picture but I couldn't drag the picture into the repository despite my attempts. However, when it is viewed as a FILE, It can be seen. I still have much to learn.
 
 
