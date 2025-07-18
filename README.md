@@ -40,6 +40,6 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 - What is the total potential revenue (actual_price × rating_count) by category?
 
 ### Data Analysis
-This is where I includesome of the DAX expresssions in form of Pivot and building Dashboard used during the analysis
+This is where I included some of the DAX expresssions in form of Pivot and building Dashboard used during the analysis. Based on my own intuition and knowing fully well this is my first hands-on Project on Data Analysis, I presume it is better I present my work as a File which is added to this repository. Therefore I added all the analysis i did after formatting my data into building Pivot tables and Dashboards; all uploaded as a FILE.
 
 
